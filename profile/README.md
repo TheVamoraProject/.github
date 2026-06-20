@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/vamora-logo.png" alt="Vamora Logo" width="160" />
+  <img src="./assets/vamoratext.png" alt="Vamora Logo" width="160" />
 </p>
-
-<h1 align="center">Vamora</h1>
 
 <p align="center">
   Making software for multiple platforms
