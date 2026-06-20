@@ -1,82 +1,50 @@
-# 🌌 Vamora
-
 <p align="center">
-  <img src="./assets/banner.png" alt="Vamora Banner" />
+  <img src="./assets/vamora-logo.png" alt="Vamora Logo" width="160" />
 </p>
 
-<p align="center">
-  <b>Building software across multiple platforms with precision, creativity, and chaos ✨</b>
-</p>
-
----
-
-## ⚡ What is Vamora?
-
-Vamora is a multi-platform software ecosystem focused on crafting modern apps, experiments, and tools that actually feel good to use.
-
-We build things that live across:
-- 🌐 Web
-- 📱 Mobile
-- 💻 Cross-platform apps
-- ⚙️ Experimental systems & tools
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| 🌤️ VamoraWeather | Minimal, fast weather app | TypeScript |
-| 📊 Vaminfo | Internal tools & utilities | Rust |
-| ⚡ More coming | Work in progress universe | — |
-
----
-
-## 🧠 Philosophy
-
-> “Good software isn’t just functional — it feels alive.”
-
-We focus on:
-- clean UI/UX
-- fast performance
-- simple but powerful systems
-- consistency across platforms
-
----
-
-## 🛠️ Tech Stack
+<h1 align="center">Vamora</h1>
 
 <p align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
+  Making software for multiple platforms
 </p>
 
 ---
 
-## 📊 GitHub Overview
+## About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+Vamora is a small software organization focused on building cross-platform apps and tools.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Links
-
-- 🌍 Website: https://vamora.vercel.app/
-- 💬 Discord: https://discord.gg/6FFNSn3aFZ
-- 📺 TikTok: https://www.tiktok.com/@vamora1
+We work mainly on:
+- 🌐 Web applications  
+- 📱 Mobile apps  
+- ⚙️ Utility tools  
+- 🧪 Experimental projects  
 
 ---
 
-## 📁 Assets Setup
+## Projects
 
-Put images here in your repo:
+- 🌤️ **VamoraWeather** — Simple weather application  
+- 📊 **Vaminfo** — Rust-based utility tools  
+- 🧩 More projects coming over time  
+
+---
+
+## Tech Stack
+
+- TypeScript
+- Rust
+- React / Next.js
+
+---
+
+## Links
+
+All official links are available on our website footer:
+https://vamora.vercel.app/
+
+---
+
+## Assets
+
+Place your logo here:
