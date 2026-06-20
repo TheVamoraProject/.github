@@ -10,11 +10,11 @@
 
 ## About
 
-Vamora is a small software organization focused on building cross-platform apps and tools.
+Vamora is a small software organization focused on building cross-platform software.
 
 We work mainly on:
 - 🌐 Web applications  
-- 📱 Mobile apps  
+- 📱 Android apps  
 - ⚙️ Utility tools  
 - 🧪 Experimental projects  
 
@@ -28,21 +28,9 @@ We work mainly on:
 
 ---
 
-## Tech Stack
-
-- TypeScript
-- Rust
-- React / Next.js
-
----
 
 ## Links
 
-All official links are available on our website footer:
-https://vamora.vercel.app/
+All official links are available on our website:
+https://vamora.vercel.app/links
 
----
-
-## Assets
-
-Place your logo here:
