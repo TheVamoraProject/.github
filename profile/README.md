@@ -14,7 +14,8 @@ Vamora is a small software organization focused on building cross-platform softw
 
 We work mainly on:
 - 🌐 Web applications  
-- 📱 Android apps  
+- 📱 Android apps
+-    Linux apps 
 - ⚙️ Utility tools  
 - 🧪 Experimental projects  
 
