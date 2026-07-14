@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/vamoratext.png" alt="Vamora Logo" width="160" />
+  <img width="160" alt="Vamora" src="https://github.com/user-attachments/assets/9969ef89-02e1-4ec4-bf9a-9073e2030e05" />
 </p>
 
 <p align="center">
