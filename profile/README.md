@@ -1,7 +1,6 @@
 <p align="center">
-  <img width="160" alt="Vamora" src="https://github.com/user-attachments/assets/9969ef89-02e1-4ec4-bf9a-9073e2030e05" />
+<img width=200 src="assets/vamoratext.png" alt="Vamora">
 </p>
-<h1 align="center">Vamora</h1>
 <p align="center">
   Making software for multiple platforms
 </p>
