@@ -14,3 +14,5 @@
   <a href="https://instagram.com/vam0ra"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="20" alt="Instagram"></a>&nbsp;&nbsp;
   <a href="https://pinterest.com/vam0ra"><img src="https://api.iconify.design/simple-icons:pinterest.svg?color=white" width="20" alt="Pinterest"></a>
 </p>
+
+---
