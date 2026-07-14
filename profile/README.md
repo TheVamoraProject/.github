@@ -5,6 +5,26 @@
 <p align="center">
   Making software for multiple platforms
 </p>
+<p align="center">
+  <a href="https://YOUR_WEBSITE">
+    <img src="https://cdn.simpleicons.org/googlechrome" width="32" alt="Website">
+  </a>
+  <a href="https://youtube.com/@YOUR_CHANNEL">
+    <img src="https://cdn.simpleicons.org/youtube" width="32" alt="YouTube">
+  </a>
+  <a href="https://tiktok.com/@YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/tiktok" width="32" alt="TikTok">
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/instagram" width="32" alt="Instagram">
+  </a>
+  <a href="https://pinterest.com/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/pinterest" width="32" alt="Pinterest">
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/github" width="32" alt="GitHub">
+  </a>
+</p>
 
 ---
 
