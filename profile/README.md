@@ -14,31 +14,3 @@
   <a href="https://instagram.com/vam0ra"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="20" alt="Instagram"></a>&nbsp;&nbsp;
   <a href="https://pinterest.com/vam0ra"><img src="https://api.iconify.design/simple-icons:pinterest.svg?color=white" width="20" alt="Pinterest"></a>
 </p>
-
-## About
-
-Vamora is a small software organization focused on building cross-platform software.
-
-We work mainly on:
-- 🌐 Web applications  
-- 📱 Android apps
--    Linux apps 
-- ⚙️ Utility tools  
-- 🧪 Experimental projects  
-
----
-
-## Projects
-
-- 🌤️ **VamoraWeather** — Simple weather application  
-- 📊 **Vaminfo** — Rust-based utility tools  
-- 🧩 More projects coming over time  
-
----
-
-
-## Links
-
-All official links are available on our website:
-https://vamora.vercel.app/links
-
