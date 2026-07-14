@@ -1,7 +1,7 @@
 <p align="center">
   <img width="160" alt="Vamora" src="https://github.com/user-attachments/assets/9969ef89-02e1-4ec4-bf9a-9073e2030e05" />
 </p>
-
+<h1 align="center">Vamora</h1>
 <p align="center">
   Making software for multiple platforms
 </p>
@@ -15,8 +15,6 @@
   <a href="https://instagram.com/vam0ra"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="20" alt="Instagram"></a>&nbsp;&nbsp;
   <a href="https://pinterest.com/vam0ra"><img src="https://api.iconify.design/simple-icons:pinterest.svg?color=white" width="20" alt="Pinterest"></a>
 </p>
-
----
 
 ## About
 
