@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vamora.org">
+  <a href="https://vamora.vercel.app">
     <img src="https://api.iconify.design/mdi:web.svg?color=white" width="20" alt="Website">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/TheVamoraProject">
