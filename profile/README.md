@@ -16,3 +16,30 @@
 </p>
 
 ---
+
+## About Vamora
+
+Vamora is a software project focused on creating software and experiences across multiple platforms.
+
+We build projects ranging from operating systems and user interfaces to applications, utilities, and assistants. Our goal is to experiment with new ideas and create software that is useful, accessible, and enjoyable to use.
+
+Vamora is constantly evolving, with new projects and experiments being developed alongside our existing ones.
+
+---
+
+## Projects
+
+<table align="center">
+  <tr>
+    <td align="center"><b><a href="https://github.com/TheVamoraProject/VamoraOS">VamoraOS</a></b><br>Vamora's operating system.</td>
+    <td align="center"><b><a href="https://github.com/TheVamoraProject/Althyn">Althyn</a></b> / <b><a href="https://github.com/TheVamoraProject/Althyn-x11">Althyn-x11</a></b><br>Vamora's adaptive interface.</td>
+  </tr>
+  <tr>
+    <td align="center"><b><a href="https://github.com/TheVamoraProject/Vano">Vano</a></b><br>A helpful assistant by Vamora.</td>
+    <td align="center"><b><a href="https://github.com/TheVamoraProject/Vaminfo">Vaminfo</a></b><br>System information and utility tool written in Rust.</td>
+  </tr>
+  <tr>
+    <td align="center"><b><a href="https://github.com/TheVamoraProject/VamoraWeather">VamoraWeather</a></b><br>Weather application for the Vamora ecosystem.</td>
+    <td align="center"></td>
+  </tr>
+</table>
