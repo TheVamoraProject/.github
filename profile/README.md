@@ -32,7 +32,7 @@ Vamora is constantly evolving, with new projects and experiments being developed
 <table align="center">
   <tr>
     <td align="center"><b><a href="https://github.com/TheVamoraProject/VamoraOS">VamoraOS</a></b><br>Vamora's operating system.</td>
-    <td align="center"><b><a href="https://github.com/TheVamoraProject/Althyn">Althyn</a></b> / <b><a href="https://github.com/TheVamoraProject/Althyn-x11">Althyn-x11</a></b><br>Vamora's adaptive interface.</td>
+    <td align="center"><b><a href="https://github.com/TheVamoraProject/Althyn">Althyn</a></b><br>Vamora's adaptive interface.</td>
   </tr>
   <tr>
     <td align="center"><b><a href="https://github.com/TheVamoraProject/Vano">Vano</a></b><br>A helpful assistant by Vamora.</td>
